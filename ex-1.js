@@ -5,3 +5,4 @@ let productName = undefined;
 let order;
 
 let test = "test by emily";
+let test2 = "test by elimy"
