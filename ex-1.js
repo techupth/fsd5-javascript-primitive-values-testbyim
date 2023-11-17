@@ -3,3 +3,7 @@ let day = 30;
 let employeeName;
 let productName = undefined;
 let order;
+
+let test = "test by emily";
+let test2 = "test by elimy"
+let test3 = "test by myliem"
